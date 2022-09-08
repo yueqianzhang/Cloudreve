@@ -7,8 +7,6 @@ cloudreve
 *.dylib
 *.db
 *.bin
-/release/
-assets.zip
 
 # Test binary, build with `go test -c`
 *.test
